@@ -1,0 +1,30 @@
+# === Virtual Environment ===
+venv/
+.env/
+
+# === Python Cache ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === IDE / Editor Settings ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs and Databases ===
+*.log
+*.sqlite3
+
+# === Jupyter Notebooks Checkpoints ===
+.ipynb_checkpoints/
+
+# === Build files ===
+build/
+dist/
+*.egg-info/
